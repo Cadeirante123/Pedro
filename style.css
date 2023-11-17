@@ -1,1 +1,4 @@
-
+.titulo {color: blue; font-size:80px}
+.subtitulo {color: red; font-size:30px}
+body {background: gray;}
+strong {color:#00FF00;}
